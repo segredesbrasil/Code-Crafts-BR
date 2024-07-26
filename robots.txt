@@ -1,0 +1,8 @@
+# robots.txt para www.codecraftbr.site
+
+# Permitir que todos os crawlers acessem o site inteiro
+User-agent: *
+Disallow:
+
+# Sitemaps
+Sitemap: https://www.codecraftbr.site/sitemap.xml
