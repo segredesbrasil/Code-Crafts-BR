@@ -114,6 +114,7 @@ section{
 }
 
 .home-content{
+    margin-top: 7px;
     display: flex;
     flex-direction: column;
     align-items: flex-end;
