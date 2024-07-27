@@ -94,6 +94,7 @@ span{
     color: white;
     border: none;
     text-wrap: nowrap;
+    white-space: nowrap;
 }
 
 .gradient-btn:hover{
